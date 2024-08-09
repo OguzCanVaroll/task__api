@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+pymysql
+python-dotenv
+flask-testing
+pytest
+gunicorn==20.1.0
